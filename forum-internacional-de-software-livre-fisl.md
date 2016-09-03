@@ -2,7 +2,11 @@
 
 ## Descrição
 
-O Fórum Internacional de Software Livre acontece anualmente na cidade de Porto Alegre, RS, Brasil. O fórum é considerado um dos maiores eventos do mundo na área por proporcionar uma discussão técnica, política e social sobre software livre de forma integrada. Reúne discussões, palestras, personalidades e novidades nacionais e internacionais do mundo do software livre.
+O Fórum Internacional de Software Livre acontece anualmente na cidade de Porto
+Alegre, RS, Brasil. O fórum é considerado um dos maiores eventos do mundo na 
+área por proporcionar uma discussão técnica, política e social sobre software 
+livre de forma integrada. Reúne discussões, palestras, personalidades e 
+novidades nacionais e internacionais do mundo do software livre.
 
 ## Edições
 
