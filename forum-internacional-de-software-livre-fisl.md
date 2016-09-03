@@ -72,27 +72,28 @@ O Fórum Internacional de Software Livre acontece anualmente na cidade de Porto 
 - *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 - *Parcitipantes*: 7.709 participantes
 
-<!---
-
 ### FISL 14 - 2013
-- *Data*: 
-- *Local*: 
-- *Parcitipantes*: 
+- *Data*: 3 a 6 de julho
+- *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+- *Parcitipantes*: 7.217 participantes
 
 ### FISL 15 - 2014
-- *Data*: 
-- *Local*:
-- *Parcitipantes*: 
+- *Data*: 7 a 10 de maio
+- *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+- *Parcitipantes*: 6.017 participantes
 
 ### FISL 16 - 2015
-- *Data*: 
-- *Local*:
-- *Parcitipantes*:
+- *Data*: 8 a 11 de julho 
+- *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+- *Parcitipantes*: 5.281 participantes
+
+<!---
 
 ### FISL 17 - 2016
 - *Data*: 
 - *Local*: 
 - *Parcitipantes*: 
+
 
   atencao: as datas e locais precisam ser revisados. obrigada.
 
