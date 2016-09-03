@@ -1,11 +1,14 @@
+---
+layout: page
+---
 # Fórum Internacional de Software Livre - FISL
 
 ## Descrição
 
 O Fórum Internacional de Software Livre acontece anualmente na cidade de Porto
-Alegre, RS, Brasil. O fórum é considerado um dos maiores eventos do mundo na 
-área por proporcionar uma discussão técnica, política e social sobre software 
-livre de forma integrada. Reúne discussões, palestras, personalidades e 
+Alegre, RS, Brasil. O fórum é considerado um dos maiores eventos do mundo na
+área por proporcionar uma discussão técnica, política e social sobre software
+livre de forma integrada. Reúne discussões, palestras, personalidades e
 novidades nacionais e internacionais do mundo do software livre.
 
 ## Edições
@@ -19,7 +22,7 @@ novidades nacionais e internacionais do mundo do software livre.
 - *Data*: 29 a 31 de maio
 - *Local*: Universidade Federal do Rio Grande do Sul (UFRGS)
 - *Parcitipantes*: carece de fontes
- 
+
 ### III FISL - 2002
 - *Data*: 2 a 4 de maio
 - *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
@@ -57,7 +60,7 @@ novidades nacionais e internacionais do mundo do software livre.
 - *Parcitipantes*: mais de 7.417 inscritos
 
 ### FISL 10 - 2009
-- *Data*: 24 a 27 de junho 
+- *Data*: 24 a 27 de junho
 - *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 - *Parcitipantes*: 8.232 inscritos
 
@@ -87,7 +90,7 @@ novidades nacionais e internacionais do mundo do software livre.
 - *Parcitipantes*: 6.017 participantes
 
 ### FISL 16 - 2015
-- *Data*: 8 a 11 de julho 
+- *Data*: 8 a 11 de julho
 - *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 - *Parcitipantes*: 5.281 participantes
 
@@ -97,7 +100,7 @@ novidades nacionais e internacionais do mundo do software livre.
 - *Local*: Centro de Eventos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 - *Parcitipantes*: carece de fontes
 
- 
+
 <!---
 
   atencao: as datas e locais precisam ser revisados. obrigada.

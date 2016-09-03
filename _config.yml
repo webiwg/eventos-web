@@ -17,7 +17,8 @@ title: História de eventos focados em web
 #email: your-email@domain.com
 lang: pt
 description: >
-  História de eventos focados em web
+  Projeto dedicado a documentar história de eventos de tecnologia,
+  principalmente comunitários, que tem relevância no Brasil e/ou a nível mundial.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eventos.webiwg.org/" # the base hostname & protocol for your site
 twitter_username: WebIWG

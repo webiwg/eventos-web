@@ -1,4 +1,7 @@
-# História de eventos focados em web
+---
+layout: page
+---
+# Sobre o História de eventos focados em web
 
 Projeto dedicado a documentar história de eventos de tecnologia,
 principalmente comunitários, que tem relevância no Brasil e/ou a nível mundial.

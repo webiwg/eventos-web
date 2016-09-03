@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Google I/O
 
 ## Descrição

@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # BrazilJS
 
 ##  Descrição
@@ -12,7 +15,7 @@ criadores da BrazilJS Conf (Jaydson N. Gomes e Felipe N. Moura)."
 ## Edições
 
 ### BrazilJS - 2011
-- *Data*: 13 e 14 de maio 
+- *Data*: 13 e 14 de maio
 - *Local*: Faculdade 7 de Setembro - Fortaleza
 - *Parcitipantes*: carece de fontes
 
@@ -22,7 +25,7 @@ criadores da BrazilJS Conf (Jaydson N. Gomes e Felipe N. Moura)."
 - *Parcitipantes*: carece de fontes
 
 ### BrazilJS - 2013
-- *Data*: 22 e 23 de agosto 
+- *Data*: 22 e 23 de agosto
 - *Local*:  Teatro do Bourbon Country - Porto Alegre
 - *Parcitipantes*:  carece de fontes
 

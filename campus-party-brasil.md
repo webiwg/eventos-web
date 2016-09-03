@@ -1,11 +1,14 @@
+---
+layout: page
+---
 # Campus Party Brasil
 
 ## Descrição
 
 A Campus Party Brasil é o principal acontecimento tecnológico realizado anualmente no Brasil.
-Nele são tratados os mais diversos temas relacionados à Internet, reunindo um grande número 
+Nele são tratados os mais diversos temas relacionados à Internet, reunindo um grande número
 de comunidades e usuários da rede mundial de computadores envolvidos com tecnologia e cultura
-digital. As edições já realizadas no Brasil ocorreram a partir de 2008 até 2016 na cidade de 
+digital. As edições já realizadas no Brasil ocorreram a partir de 2008 até 2016 na cidade de
 São Paulo, e em Recife a partir de 2012 até 2015.
 Na última edição do evento em São Paulo foi anunciado que, durante 2016, ocorrerão edições da
 Campus Party também em Brasília e Belo Horizonte, além da edição em Recife.
