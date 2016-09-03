@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: event-index
+title: JoomlaDay Brasil (e regionais no Brasil)
 ---
 # JoomlaDay Brasil (e regionais no Brasil)
 O Joomla!Day é um evento sem fins lucrativos organizado de forma colaborativa
