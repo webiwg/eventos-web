@@ -18,8 +18,8 @@ title: História de eventos focados em web
 lang: pt
 description: >
   História de eventos focados em web
-baseurl: "/eventos-web" # the subpath of your site, e.g. /blog
-url: "http://www.webiwg.org/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://eventos.webiwg.org/" # the base hostname & protocol for your site
 twitter_username: WebIWG
 github_username:  WebIWG
 
