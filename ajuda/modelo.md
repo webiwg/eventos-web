@@ -2,6 +2,7 @@
 layout: event-index
 title: Modelo de documento para adição de eventos
 discussion: https://github.com/webiwg/eventos-web/issues/9
+tags: []
 ---
 
 Esta é uma descrição do evento a ser adicionada. Ela usa como referência
@@ -31,10 +32,10 @@ sufixo "- 2016" ao final do título. Use "(2016)" caso "-" faça parte
 do nome do título do evento.
 
 ### Nome de Evento de Tecnologia 2.0 - 2015
-- **Data**: _carece de fontes_
+- **Data**: <em><a href="#contribua">carece de fontes</a></em>
 - **Local**: Nome do local exato - Cidade, País
-- **Participantes**: _carece de fontes_
-- **Organizadores**: _carece de fontes_
+- **Participantes**: <em><a href="#contribua">carece de fontes</a></em>
+- **Organizadores**: <em><a href="#contribua">carece de fontes</a></em>
 
 <!--
 Este evento, por falta de informações extras, não tem descrição adicional.

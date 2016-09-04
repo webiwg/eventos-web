@@ -1,4 +1,4 @@
-# História de eventos focados em web
+# História de eventos de tecnologia
 
 Projeto dedicado a documentar história de eventos de tecnologia,
 principalmente comunitários, que tem relevância no Brasil e/ou a nível mundial.

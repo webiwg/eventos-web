@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: História de eventos focados em web
+title: História de eventos de tecnologia
 #email: your-email@domain.com
 lang: pt
 description: >
-  Projeto dedicado a documentar história de eventos de tecnologia,
+  Projeto dedicado a documentar história de eventos de tecnologia com foco na Web,
   principalmente comunitários, que tem relevância no Brasil e/ou a nível mundial.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eventos.webiwg.org/" # the base hostname & protocol for your site
