@@ -20,10 +20,18 @@ description: >
   Projeto dedicado a documentar história de eventos de tecnologia com foco na Web,
   principalmente comunitários, que tem relevância no Brasil e/ou a nível mundial.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://eventos.webiwg.org/" # the base hostname & protocol for your site
+url: "http://eventos.webiwg.org" # url completa para o site. NÃO termine com barra
 twitter_username: WebIWG
 github_username:  WebIWG
+
+# Usado por jekyll-seo-tag
+author:
+  twitter: webiwg
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
