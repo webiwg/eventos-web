@@ -5,9 +5,9 @@ layout: page
 
 ##  Descrição
 
-"A CryptoRave é o maior evento de segurança e privacidade no Brasil, organizada voluntariamente com o objetivo de disseminar conceitos fundamentais e softwares básicos de criptografia para todos, de forma gratuíta e aberta.
+A CryptoRave é o maior evento de segurança e privacidade no Brasil, organizada voluntariamente com o objetivo de disseminar conceitos fundamentais e softwares básicos de criptografia para todos, de forma gratuíta e aberta.
 
-Inspira-se na ação global e descentralizada da [CryptoParty](https://www.cryptoparty.in)"
+Inspira-se na ação global e descentralizada da [CryptoParty](https://www.cryptoparty.in)
 
 ## Edições
 

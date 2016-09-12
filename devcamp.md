@@ -5,14 +5,14 @@ layout: page
 
 ##  Descrição
 
-"A DevCamp é o maior evento de desenvolvimento de software do interior de São Paulo
+A DevCamp é o maior evento de desenvolvimento de software do interior de São Paulo
 O evento tem como característica a divisão de “trilhas” de conteúdo, como:
 
 * Devroots, conteúdo técnico, com código e práticas de desenvolvimento de software
 * Além do Código, palestras de ferramentas, metodologias e temas que estão além das linhas de código
 * Lado Humano da Tecnologia, com discussões de desenvolvimento de equipes e gestão de recursos humanos.
 
-O principal objetivo da conferência é concentrar capacitações, networking e troca de experiências entre profissionais, estudantes e entusiastas da área de tecnologia da informação."
+O principal objetivo da conferência é concentrar capacitações, networking e troca de experiências entre profissionais, estudantes e entusiastas da área de tecnologia da informação.
 
 ## Edições
 
