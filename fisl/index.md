@@ -11,7 +11,21 @@ Alegre, RS, Brasil. O fórum é considerado um dos maiores eventos do mundo na
 livre de forma integrada. Reúne discussões, palestras, personalidades e
 novidades nacionais e internacionais do mundo do software livre.
 
-## Edições
+<!-- Geração automática de índice, inicio -->
+<hr>
+<nav  markdown="1">
+
+## Índice de tópicos
+{:.no_toc}
+
+1. Indice de Tópicos. Esta linha será substituída
+{:toc}
+
+</nav>
+<hr>
+<!-- Geração automática de índice, fim -->
+
+## Edições do Evento
 
 ### FISL 17 - 2016
 - **Data**: 13 a 16 de julho

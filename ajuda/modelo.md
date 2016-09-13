@@ -18,6 +18,20 @@ devem ser adicionadas apenas nas respectivas edições.
   está no topo do arquivo)
 -->
 
+<!-- Geração automática de índice, inicio -->
+<hr>
+<nav  markdown="1">
+
+## Índice de tópicos
+{:.no_toc}
+
+1. Indice de Tópicos. Esta linha será substituída
+{:toc}
+
+</nav>
+<hr>
+<!-- Geração automática de índice, fim -->
+
 ## Edições do evento
 
 ### Nome de Evento de Tecnologia 3 - 2016
