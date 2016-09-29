@@ -1,5 +1,9 @@
 ---
-layout: page
+layout: event-index
+title: Cryptorave
+description: "A CryptoRave é o maior evento de segurança e privacidade no Brasil, organizada voluntariamente com o objetivo de disseminar conceitos fundamentais e softwares básicos de criptografia para todos, de forma gratuíta e aberta."
+discussion: https://github.com/webiwg/eventos-web/issues/12
+tags: [porte-nacional]
 ---
 # Cryptorave
 

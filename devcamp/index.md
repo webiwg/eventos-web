@@ -1,5 +1,9 @@
 ---
-layout: page
+layout: event-index
+title: DevCamp
+description: "A DevCamp é o maior evento de desenvolvimento de software do interior de São Paulo."
+discussion: https://github.com/webiwg/eventos-web/issues/13
+tags: [porte-estadual]
 ---
 # DevCamp
 
@@ -19,12 +23,12 @@ O principal objetivo da conferência é concentrar capacitações, networking e 
 ### DevCamp - 2013
 - *Data*: 10 e 11 de maio
 - *Local*:  Centro de Convenções da Unicamp - Campinas/SP
-- *Parcitipantes*: mais de 300 participantes, 720 seguidores em redes sociais e cerca de 12 mil acessos ao site do evento. 
+- *Parcitipantes*: mais de 300 participantes, 720 seguidores em redes sociais e cerca de 12 mil acessos ao site do evento.
 
 ### DevCamp - 2014
 - *Data*: 16 e 17 de maio
 - *Local*:  Centro de Convenções da Unicamp - Campinas/SP
-- *Parcitipantes*: mais de 300 participantes, 2.900 seguidores em redes sociais e cerca de 37 mil acessos ao site do evento. 
+- *Parcitipantes*: mais de 300 participantes, 2.900 seguidores em redes sociais e cerca de 37 mil acessos ao site do evento.
 
 ### DevCamp - 2015
 - *Data*: 15 de maio

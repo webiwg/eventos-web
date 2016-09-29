@@ -1,5 +1,9 @@
 ---
-layout: page
+layout: event-index
+title: Encontro Brasileiro de Hardware Aberto e Livre (e-HAL)
+description: "O Encontro Brasileiro de Hardware Aberto e Livre (e-HAL) deseja ser um marco para o movimento de hardware aberto e livre no Brasil."
+discussion: https://github.com/webiwg/eventos-web/issues/14
+tags: [porte-nacional]
 ---
 # Encontro Brasileiro de Hardware Aberto e Livre (e-HAL)
 

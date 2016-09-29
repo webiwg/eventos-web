@@ -6,7 +6,7 @@ pelas comunidades locais. O evento é encorajado pelo time principal do Joomla!
 Project e o objetivo é estimular o desenvolvimento de comunidades mais fortes
 e organizadas. É uma oportunidade para troca de experiências, networking e
 aprendizado das boas práticas do Joomla!."
-tags: ["cms", "php", "joomla"]
+tags: ["porte-nacional", "cms", "php", "joomla"]
 discussion: https://github.com/webiwg/eventos-web/issues/8
 ---
 O Joomla!Day é um evento sem fins lucrativos organizado de forma colaborativa

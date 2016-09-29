@@ -1,5 +1,9 @@
 ---
-layout: page
+layout: event-index
+title: Campus Party Brasil
+description: "A Campus Party Brasil é o principal acontecimento tecnológico realizado anualmente no Brasil."
+discussion: https://github.com/webiwg/eventos-web/issues/2
+tags: [porte-nacional]
 ---
 # Campus Party Brasil
 

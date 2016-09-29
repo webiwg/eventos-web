@@ -2,7 +2,7 @@
 layout: event-index
 title: Fórum Internacional de Software Livre - FISL
 discussion: https://github.com/webiwg/eventos-web/issues/1
-tags: []
+tags: [porte-internacional]
 ---
 
 O Fórum Internacional de Software Livre acontece anualmente na cidade de Porto

@@ -1,5 +1,9 @@
 ---
-layout: page
+layout: event-index
+title: Google I/O
+description: "Google I/O (simply I/O) is an annual developer conference held by Google in San Francisco, California"
+discussion: https://github.com/webiwg/eventos-web/issues/3
+tags: [porte-internacional]
 ---
 # Google I/O
 
