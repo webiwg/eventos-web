@@ -15,8 +15,21 @@ Project e o objetivo é estimular o desenvolvimento de comunidades mais fortes
 e organizadas. É uma oportunidade para troca de experiências, networking e
 aprendizado das boas práticas do Joomla!.
 
+<!-- Geração automática de índice, inicio -->
+<hr>
+<nav  markdown="1">
 
-## Edições
+## Índice de tópicos
+{:.no_toc}
+
+1. Indice de Tópicos. Esta linha será substituída
+{:toc}
+
+</nav>
+<hr>
+<!-- Geração automática de índice, fim -->
+
+## Edições do evento
 
 ### JoomlaDay Brasil 2015
 - **Data**: 4 a 6 de setembro de 2015

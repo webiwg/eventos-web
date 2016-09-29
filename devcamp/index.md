@@ -5,9 +5,6 @@ description: "A DevCamp é o maior evento de desenvolvimento de software do inte
 discussion: https://github.com/webiwg/eventos-web/issues/13
 tags: [porte-estadual]
 ---
-# DevCamp
-
-##  Descrição
 
 A DevCamp é o maior evento de desenvolvimento de software do interior de São Paulo
 O evento tem como característica a divisão de “trilhas” de conteúdo, como:
@@ -18,24 +15,38 @@ O evento tem como característica a divisão de “trilhas” de conteúdo, como
 
 O principal objetivo da conferência é concentrar capacitações, networking e troca de experiências entre profissionais, estudantes e entusiastas da área de tecnologia da informação.
 
-## Edições
+<!-- Geração automática de índice, inicio -->
+<hr>
+<nav  markdown="1">
 
-### DevCamp - 2013
-- *Data*: 10 e 11 de maio
-- *Local*:  Centro de Convenções da Unicamp - Campinas/SP
-- *Parcitipantes*: mais de 300 participantes, 720 seguidores em redes sociais e cerca de 12 mil acessos ao site do evento.
+## Índice de tópicos
+{:.no_toc}
 
-### DevCamp - 2014
-- *Data*: 16 e 17 de maio
-- *Local*:  Centro de Convenções da Unicamp - Campinas/SP
-- *Parcitipantes*: mais de 300 participantes, 2.900 seguidores em redes sociais e cerca de 37 mil acessos ao site do evento.
+1. Indice de Tópicos. Esta linha será substituída
+{:toc}
+
+</nav>
+<hr>
+<!-- Geração automática de índice, fim -->
+
+## Edições do evento
+
+### DevCamp - 2016
+- *Data*: <em><a href="#contribua">carece de fontes</a></em>
+- *Local*: Centro de Convenções da Unicamp - Campinas/SP
+- *Participantes*: cerca de 700 participantes
 
 ### DevCamp - 2015
 - *Data*: 15 de maio
 - *Local*: Centro de Convenções da Unicamp - Campinas/SP
-- *Parcitipantes*: cerca de 600 participantes
+- *Participantes*: cerca de 600 participantes
 
-### DevCamp - 2016
-- *Data*: carece de fontes
-- *Local*: Centro de Convenções da Unicamp - Campinas/SP
-- *Parcitipantes*: cerca de 700 participantes
+### DevCamp - 2014
+- *Data*: 16 e 17 de maio
+- *Local*:  Centro de Convenções da Unicamp - Campinas/SP
+- *Participantes*: mais de 300 participantes, 2.900 seguidores em redes sociais e cerca de 37 mil acessos ao site do evento.
+
+### DevCamp - 2013
+- *Data*: 10 e 11 de maio
+- *Local*:  Centro de Convenções da Unicamp - Campinas/SP
+- *Participantes*: mais de 300 participantes, 720 seguidores em redes sociais e cerca de 12 mil acessos ao site do evento.
