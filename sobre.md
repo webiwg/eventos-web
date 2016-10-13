@@ -11,6 +11,8 @@ e temos esperança que, além do valor histórico de saber o que já aconteceu,
 esta iniciativa ajude organizadores de eventos aprederem com os anteriores,
 possivelmente melhorando a integração da comunidade de desenvolvedores.
 
-O projeto é coordenado por [Ana Luiza Bastos](https://github.com/anabastos).
+
+O projeto é gerenciado pelos colaboradores da WebIWG, e neste momento não
+tem pessoa coordenadora geral dedicada.
 O site publicado está em [http://eventos.webiwg.org](http://eventos.webiwg.org)
 e seu código fonte em [https://github.com/webiwg/eventos-web](https://github.com/webiwg/eventos-web).
