@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+sitemap: http://eventos.webiwg.org/sitemap.xml
