@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      <a href="{{ page.discussion }}">Discussão sobre este evento</a>
+      <a href="{{ page.discussion }}">Discussão sobre este evento ↗</a>
       {% if page.tags %} • Tags <strong>{{ page.tags  | join: "," | prepend: "[" | append: "]" }}</strong>{% endif %}
     </p>
   </header>
@@ -18,7 +18,7 @@ layout: default
   <footer>
     <h2 id="contribua">Como sugerir alterações nesta página?</h2>
     <p>
-      Algo está errado, incompleto ou pode ser melhorado? Visite <a href="{{ page.discussion }}">{{ page.discussion }}</a> para propor alterações.
+      Algo está errado, incompleto ou pode ser melhorado? Visite <a href="{{ page.discussion }}">{{ page.discussion }} ↗</a> para propor alterações.
     </p>
   </footer>
 

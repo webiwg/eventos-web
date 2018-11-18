@@ -19,8 +19,8 @@ lang: pt
 description: >
   Projeto dedicado a documentar história de eventos de tecnologia com foco na Web,
   principalmente comunitários, que tem relevância no Brasil e/ou a nível mundial.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://eventos.webiwg.org" # url completa para o site. NÃO termine com barra
+baseurl: "/eventos-web" # the subpath of your site, e.g. /blog
+url: "https://webiwg.github.io" # url completa para o site. NÃO termine com barra
 twitter_username: WebIWG
 github_username:  WebIWG
 github_repository: webiwg/eventos-web

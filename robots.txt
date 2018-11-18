@@ -1,4 +1,4 @@
 User-agent: *
 allow: /
 
-sitemap: http://eventos.webiwg.org/sitemap.xml
+sitemap: https://webiwg.github.io/eventos-web/sitemap.xml
